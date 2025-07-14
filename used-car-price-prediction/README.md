@@ -11,8 +11,9 @@ Predicting a car's **selling price** based on its features.
 
 ### To Run:
     ```bash
-    streamlit run app.py
+        streamlit run app.py
     ```
+
 ## 🌐 Live Demo
 
 👉 [Click here to view the deployed app]()
