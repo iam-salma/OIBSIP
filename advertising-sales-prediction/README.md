@@ -9,11 +9,9 @@ Predicting product sales based on advertising spend on TV, Radio, and Newspaper.
 - Clean UI with fast prediction
 
 ### To Run:
-    ```bash
-    streamlit run app.py
-    ```
-## 🌐 Live Demo
 
-👉 [Click here to view the deployed app]()
+```bash
+streamlit run app.py
+```
 
 ENJOY 😊🎉

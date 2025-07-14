@@ -10,12 +10,9 @@ Predicting the **Unemployment Rate (%)** based on economic indicators and region
 - Clean, responsive UI
 
 ### To Run:
-    ```bash
-    streamlit run app.py
-    ```
 
-## 🌐 Live Demo
-
-👉 [Click here to view the deployed app]()
+```bash
+streamlit run app.py
+```
 
 ENJOY 😊🎉

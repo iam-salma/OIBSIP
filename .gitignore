@@ -1,3 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.pyo
+
+# Virtual Environment
 venv/
-.idea/
-.venv/
+.env/
+.envrc
+
+# VSCode
+.vscode/
+
+# Mac/Linux/Windows system files
+.DS_Store
+Thumbs.db
+
+# Streamlit logs
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

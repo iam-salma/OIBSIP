@@ -9,12 +9,9 @@ Predicts whether a given text message is **spam** or **not spam** using NLP, lem
 - Clean, responsive UI
 
 ### To Run:
-    ```bash
-    streamlit run app.py
-    ```
 
-## 🌐 Live Demo
-
-👉 [Click here to view the deployed app]()
+```bash
+streamlit run app.py
+```
 
 ENJOY 😊🎉

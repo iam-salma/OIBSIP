@@ -7,12 +7,13 @@ This repository is designed as a community-driven collection of machine learning
 ---
 
 ### 📁 Project Structure Guideline
-
+```bash
 your_project_name/
 ├── dataset/
 │   └── your_data.csv
 ├── README.md
 ├── requirements.txt
+```
 
 Each project should be beginner-friendly and well-structured.✊
 
